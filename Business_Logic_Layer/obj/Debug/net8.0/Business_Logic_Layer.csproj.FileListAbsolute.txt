@@ -1,0 +1,15 @@
+E:\Apis .NET\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.deps.json
+E:\Apis .NET\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.dll
+E:\Apis .NET\Business_Logic_Layer\bin\Debug\net8.0\Business_Logic_Layer.pdb
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfoInputs.cache
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.AssemblyInfo.cs
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CoreCompileInputs.cache
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.dll
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\refint\Business_Logic_Layer.dll
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.pdb
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\ref\Business_Logic_Layer.dll
+E:\Apis .NET\Business_Logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+E:\Apis .NET\Business_Logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.AssemblyReference.cache
+E:\Apis .NET\Business_Logic_Layer\obj\Debug\net8.0\Business_Logic_Layer.csproj.CopyComplete
