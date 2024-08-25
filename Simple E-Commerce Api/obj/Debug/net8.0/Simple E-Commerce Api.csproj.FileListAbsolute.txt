@@ -1,0 +1,142 @@
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\appsettings.Development.json
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\appsettings.json
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Simple E-Commerce Api.exe
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Simple E-Commerce Api.deps.json
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Simple E-Commerce Api.runtimeconfig.json
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Simple E-Commerce Api.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Simple E-Commerce Api.pdb
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Azure.Core.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Azure.Identity.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Data_Access_Layer.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Data_Access_Layer.pdb
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.csproj.AssemblyReference.cache
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.AssemblyInfoInputs.cache
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.AssemblyInfo.cs
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.csproj.CoreCompileInputs.cache
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets\msbuild.Simple E-Commerce Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Simple E-Commerce Api.props
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Simple E-Commerce Api.props
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Simple E-Commerce Api.props
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\scopedcss\bundle\Simple E-Commerce Api.styles.css
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.csproj.CopyComplete
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.dll
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\refint\Simple E-Commerce Api.dll
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.pdb
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\Simple E-Commerce Api.genruntimeconfig.cache
+E:\Apis .NET\Simple E-Commerce Api\obj\Debug\net8.0\ref\Simple E-Commerce Api.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Humanizer.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\System.Text.Json.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Business_Logic_Layer.dll
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\Business_Logic_Layer.pdb
+E:\Apis .NET\Simple E-Commerce Api\bin\Debug\net8.0\AutoMapper.dll
